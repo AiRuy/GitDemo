@@ -3,7 +3,7 @@ function reload(){
 }
 
 function after_reload(){
-	console.log("加载完成后调用的方法");
+	console.log("加载完成后调用的方法A");
 }
 
 reload();
